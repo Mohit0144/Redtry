@@ -1,59 +1,175 @@
-
-package token;
-
-import token.aos;
-/*
-Taken from JioTV p000.aos
-*/
-
-import java.io.*;
-import java.net.*;
-
-public class runner{
-public static void main(String args[])
-{
-aos s=new aos();
-
-String aa="AQIC5wM2LY4Sfcw41MgI8_pcrWhihKiBPYyAhCtMTN5pN0s.*AAJTSQACMDIAAlNLABQtMzAzMzcxMTIyNjc5Mjc3ODA1MAACUzEAAjAz*";
-
-String bb="";
-
-try {
-
-        URL url = new URL("https://tv.media.jio.com/apis/v1.3/beginsession/begin?langId=6");
-        HttpURLConnection conn = (HttpURLConnection) url.openConnection();
-        conn.setDoOutput(true);
-        conn.setRequestMethod("GET");
-        conn.setRequestProperty("Content-Type", "application/json");
-
-        BufferedReader br = new BufferedReader(new InputStreamReader(
-                (conn.getInputStream())));
-
-       
-        while ((output = br.readLine()) != null) {
-output=output.substring(output.indexOf("tid\":")+6);
-bb=output.substring(0,output.length()-3);
-//System.out.println(bb);
-        }
-
-        conn.disconnect();
-
-
-
-      } catch (Exception e) {
-
-        e.printStackTrace();
-
-     }
-
-
-s.m13418c(aa);
-s.m13419d(bb);
-s.mo1746a(3600);
-
-String uurl=s.mo1745a("http://smumcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/" + args[0] +  "/" + args[0] + "_400.m3u8");
-
-System.out.println(uurl.split("m3u8")[1].toString());
-
-
-}
+#EXTM3U
+#EXTINF:-1,IN: & Picture HD
+http://wuuws.com:8080/20go20go/8yllX2EDQn/71695
+#EXTINF:-1,IN: & Pictures HD
+http://wuuws.com:8080/20go20go/8yllX2EDQn/71711
+#EXTINF:-1,IN: 9X JALWA
+http://wuuws.com:8080/20go20go/8yllX2EDQn/71710
+#EXTINF:-1,IN: 9X JHAKAAS
+http://wuuws.com:8080/20go20go/8yllX2EDQn/71709
+#EXTINF:-1,IN: 9X TASHAN
+http://wuuws.com:8080/20go20go/8yllX2EDQn/71708
+#EXTINF:-1,IN: 9xM
+http://wuuws.com:8080/20go20go/8yllX2EDQn/71712
+#EXTINF:-1,IN: Aaj Tak
+http://wuuws.com:8080/20go20go/8yllX2EDQn/71713
+#EXTINF:-1,IN: ABP News
+http://wuuws.com:8080/20go20go/8yllX2EDQn/71714
+#EXTINF:-1,IN:  ABP News HD
+http://wuuws.com:8080/20go20go/8yllX2EDQn/68950
+#EXTINF:-1,IN: AONE PUNJABI
+http://wuuws.com:8080/20go20go/8yllX2EDQn/71707
+#EXTINF:-1,IN: Ary QTV
+http://wuuws.com:8080/20go20go/8yllX2EDQn/71715
+#EXTINF:-1,IN: Asia Net Plus
+http://wuuws.com:8080/20go20go/8yllX2EDQn/71716
+#EXTINF:-1,IN: B4U Movie
+http://wuuws.com:8080/20go20go/8yllX2EDQn/71681
+#EXTINF:-1,IN: B4U Movies
+http://wuuws.com:8080/20go20go/8yllX2EDQn/71717
+#EXTINF:-1,IN: B4U Music
+http://wuuws.com:8080/20go20go/8yllX2EDQn/71680
+#EXTINF:-1,IN: B4U PLUS
+http://wuuws.com:8080/20go20go/8yllX2EDQn/71679
+#EXTINF:-1,IN: Bindass Play
+http://wuuws.com:8080/20go20go/8yllX2EDQn/71718
+#EXTINF:-1,IN: COLORS HD
+http://wuuws.com:8080/20go20go/8yllX2EDQn/71678
+#EXTINF:-1,IN: DESI BEATS
+http://wuuws.com:8080/20go20go/8yllX2EDQn/71754
+#EXTINF:-1,IN: DESI CHANNEL
+http://wuuws.com:8080/20go20go/8yllX2EDQn/71706
+#EXTINF:-1,IN: Discovery Channel
+http://wuuws.com:8080/20go20go/8yllX2EDQn/71719
+#EXTINF:-1,IN: E24
+http://wuuws.com:8080/20go20go/8yllX2EDQn/71755
+#EXTINF:-1,IN: GEO NEWS
+http://wuuws.com:8080/20go20go/8yllX2EDQn/71674
+#EXTINF:-1,IN: GEO TEZ
+http://wuuws.com:8080/20go20go/8yllX2EDQn/71675
+#EXTINF:-1,IN: HBO
+http://wuuws.com:8080/20go20go/8yllX2EDQn/71720
+#EXTINF:-1,IN: Hum Europe
+http://wuuws.com:8080/20go20go/8yllX2EDQn/71721
+#EXTINF:-1,IN: Jaya Movies
+http://wuuws.com:8080/20go20go/8yllX2EDQn/71722
+#EXTINF:-1,IN: JAYA TV
+http://wuuws.com:8080/20go20go/8yllX2EDQn/71705
+#EXTINF:-1,IN: JayaMax
+http://wuuws.com:8080/20go20go/8yllX2EDQn/71723
+#EXTINF:-1,IN: Life OK HD
+http://wuuws.com:8080/20go20go/8yllX2EDQn/71724
+#EXTINF:-1,IN: Living Food
+http://wuuws.com:8080/20go20go/8yllX2EDQn/71725
+#EXTINF:-1,IN: MAA Gold
+http://wuuws.com:8080/20go20go/8yllX2EDQn/71726
+#EXTINF:-1,IN: MTA INTERNATIONAL
+http://wuuws.com:8080/20go20go/8yllX2EDQn/71760
+#EXTINF:-1,IN: MTV India
+http://wuuws.com:8080/20go20go/8yllX2EDQn/71727
+#EXTINF:-1,IN: Music India
+http://wuuws.com:8080/20go20go/8yllX2EDQn/71728
+#EXTINF:-1,IN: NDTV India
+http://wuuws.com:8080/20go20go/8yllX2EDQn/71729
+#EXTINF:-1,IN: PTC PUNJABI
+http://wuuws.com:8080/20go20go/8yllX2EDQn/71704
+#EXTINF:-1,IN: PTV PRIME
+http://wuuws.com:8080/20go20go/8yllX2EDQn/71677
+#EXTINF:-1,IN: PTV Sports
+http://wuuws.com:8080/20go20go/8yllX2EDQn/71730
+#EXTINF:-1,IN: RISHTEY
+http://wuuws.com:8080/20go20go/8yllX2EDQn/71703
+#EXTINF:-1,IN: SAB TV
+http://wuuws.com:8080/20go20go/8yllX2EDQn/71756
+#EXTINF:-1,IN: SET MAX
+http://wuuws.com:8080/20go20go/8yllX2EDQn/71702
+#EXTINF:-1,IN: Set Mx
+http://wuuws.com:8080/20go20go/8yllX2EDQn/71697
+#EXTINF:-1,IN: Sonic Nickelodeon
+http://wuuws.com:8080/20go20go/8yllX2EDQn/71731
+#EXTINF:-1,IN: Sony Entertainment HD
+http://wuuws.com:8080/20go20go/8yllX2EDQn/71732
+#EXTINF:-1,IN: Sony ESPN
+http://wuuws.com:8080/20go20go/8yllX2EDQn/71733
+#EXTINF:-1,IN: Sony HD
+http://wuuws.com:8080/20go20go/8yllX2EDQn/71696
+#EXTINF:-1,IN: SONY MIX
+http://wuuws.com:8080/20go20go/8yllX2EDQn/71694
+#EXTINF:-1,IN: Sony Pal
+http://wuuws.com:8080/20go20go/8yllX2EDQn/71734
+#EXTINF:-1,IN: Sony Pix HD
+http://wuuws.com:8080/20go20go/8yllX2EDQn/71735
+#EXTINF:-1,IN: Sony Sab
+http://wuuws.com:8080/20go20go/8yllX2EDQn/71693
+#EXTINF:-1,IN: Sony Six HD
+http://wuuws.com:8080/20go20go/8yllX2EDQn/71736
+#EXTINF:-1,IN: SONY TV HD
+http://wuuws.com:8080/20go20go/8yllX2EDQn/71700
+#EXTINF:-1,IN: Star Bharat
+http://wuuws.com:8080/20go20go/8yllX2EDQn/71757
+#EXTINF:-1,IN: Star Gold
+http://wuuws.com:8080/20go20go/8yllX2EDQn/71737
+#EXTINF:-1,IN: Star Jalsha
+http://wuuws.com:8080/20go20go/8yllX2EDQn/71692
+#EXTINF:-1,IN: Star Life Ok
+http://wuuws.com:8080/20go20go/8yllX2EDQn/71676
+#EXTINF:-1,IN: STAR PLUS
+http://wuuws.com:8080/20go20go/8yllX2EDQn/71699
+#EXTINF:-1,IN: Star plus  HD
+http://wuuws.com:8080/20go20go/8yllX2EDQn/71691
+#EXTINF:-1,IN: STAR SPORTS 1
+http://wuuws.com:8080/20go20go/8yllX2EDQn/71701
+#EXTINF:-1,IN: Star Sports 1 HD
+http://wuuws.com:8080/20go20go/8yllX2EDQn/71738
+#EXTINF:-1,IN: Star Sports 2 HD
+http://wuuws.com:8080/20go20go/8yllX2EDQn/71739
+#EXTINF:-1,IN: Star Sports 3 HD
+http://wuuws.com:8080/20go20go/8yllX2EDQn/71740
+#EXTINF:-1,IN: Star Sports 4 HD
+http://wuuws.com:8080/20go20go/8yllX2EDQn/71741
+#EXTINF:-1,IN: Star Vijay
+http://wuuws.com:8080/20go20go/8yllX2EDQn/71742
+#EXTINF:-1,IN: Sun Music
+http://wuuws.com:8080/20go20go/8yllX2EDQn/71690
+#EXTINF:-1,IN: Sun Tv
+http://wuuws.com:8080/20go20go/8yllX2EDQn/71689
+#EXTINF:-1,IN: Ten 1 HD
+http://wuuws.com:8080/20go20go/8yllX2EDQn/71743
+#EXTINF:-1,IN: Ten 2 HD
+http://wuuws.com:8080/20go20go/8yllX2EDQn/71744
+#EXTINF:-1,IN: Ten 3
+http://wuuws.com:8080/20go20go/8yllX2EDQn/71745
+#EXTINF:-1,IN: Times Now
+http://wuuws.com:8080/20go20go/8yllX2EDQn/71747
+#EXTINF:-1,IN: UTV Movies US
+http://wuuws.com:8080/20go20go/8yllX2EDQn/71688
+#EXTINF:-1,IN: Venus
+http://wuuws.com:8080/20go20go/8yllX2EDQn/71758
+#EXTINF:-1,IN: Zee Action
+http://wuuws.com:8080/20go20go/8yllX2EDQn/71687
+#EXTINF:-1,IN: Zee Bangla Cinema
+http://wuuws.com:8080/20go20go/8yllX2EDQn/71748
+#EXTINF:-1,IN: ZEE BOLYWOOD HD
+http://wuuws.com:8080/20go20go/8yllX2EDQn/71684
+#EXTINF:-1,IN: Zee Business
+http://wuuws.com:8080/20go20go/8yllX2EDQn/71749
+#EXTINF:-1,IN: ZEE CINEMA
+http://wuuws.com:8080/20go20go/8yllX2EDQn/71685
+#EXTINF:-1,IN: Zee Classic
+http://wuuws.com:8080/20go20go/8yllX2EDQn/71750
+#EXTINF:-1,IN: Zee Living HD
+http://wuuws.com:8080/20go20go/8yllX2EDQn/71751
+#EXTINF:-1,IN: Zee News
+http://wuuws.com:8080/20go20go/8yllX2EDQn/71752
+#EXTINF:-1,IN: Zee Punjabi
+http://wuuws.com:8080/20go20go/8yllX2EDQn/71683
+#EXTINF:-1,IN: Zee Tamil
+http://wuuws.com:8080/20go20go/8yllX2EDQn/71682
+#EXTINF:-1,IN: ZEE TV HD
+http://wuuws.com:8080/20go20go/8yllX2EDQn/71686
+#EXTINF:-1,IN: Zee TV US HD
+http://wuuws.com:8080/20go20go/8yllX2EDQn/71753
+#EXTINF:-1,IN: Zing
+http://wuuws.com:8080/20go20go/8yllX2EDQn/71759
+#EXTINF:-1,IN: ZOOM
+http://wuuws.com:8080/20go20go/8yllX2EDQn/71698
