@@ -134,16 +134,5 @@ http://ngprsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Epic_HD/Epic_HD_600.m3u8?j
 
 
 
-#EXTINF:-1 tvg-id="id N/A" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Epic_HD.png" group-title="Hindi Entertainment",$ Epic Channel H 
-https://sony247channels.akamaized.net/hls/live/2002594/Epicchannel/master_2128.m3u8
-#EXTINF:-1 tvg-id="id N/A" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Epic_HD.png" group-title="Hindi Entertainment",$ Epic Channel L
-https://sony247channels.akamaized.net/hls/live/2002594/Epicchannel/master_1428.m3u8
-EXTINF:-1 tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/DD_India.png" group-title="Hindi Entertainment",DD India
-http://sngprecdnems13.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/DD_India/DD_India_600.m3u8?jct=LrgwZm7NGzQYbOWCSflvaw&pxe=1581172404&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_1 like Mac OS X) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.0 JioTV Mobile/14E304 Safari/602.1"
-#EXTINF:-1 tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/DD_bharati.png" group-title="Hindi Entertainment",DD Bharati
-http://sngprecdnems13.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/DD_bharati/DD_bharati_600.m3u8?jct=LrgwZm7NGzQYbOWCSflvaw&pxe=1581172404&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_1 like Mac OS X) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.0 JioTV Mobile/14E304 Safari/602.1"
-#EXTINF:-1 tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/DD_National.png" group-title="Hindi Entertainment",DD National
-http://sngprecdnems13.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/DD_National/DD_National_600.m3u8?jct=LrgwZm7NGzQYbOWCSflvaw&pxe=1581172404&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_1 like Mac OS X) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.0 JioTV Mobile/14E304 Safari/602.1"
-#EXTINF:-1 tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/DD_News.png" group-title="Hindi Entertainment",DD News
-http://sngprecdnems13.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/DD_News/DD_News_600.m3u8?jct=LrgwZm7NGzQYbOWCSflvaw&pxe=1581172404&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_1 like Mac OS X) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.0 JioTV Mobile/14E304 Safari/602.1"
---------------------------------------------------------------------
+#EXTINF:-1 tvg-id="Wion news" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1f/WION_TV_logo.jpg",Wion News
+http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/wion/index.m3u8
