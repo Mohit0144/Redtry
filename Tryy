@@ -52,9 +52,9 @@ http://linear07hun-lh.akamaihd.net/i/dilse_1@673921/master.m3u8
 #EXTINF:-1 tvg-id="B4u music" group-title="Hindi Music" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/b4u-music-logo.jpg",B4U Music
 http://103.199.161.254/Content/b4umusic/Live/Channel(B4Umusic)/index.m3u8
 #EXTINF:-1 tvg-id="9XM" group-title="Hindi Music" tvg-logo="http://jio-tv.com/uploads/tv_image/9xm.jpg",9XM
-http://pockettv.xyz/api/zee.m3u8?c=9xm
+http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/9xm/index.m3u8
 #EXTINF:-1 tvg-id="ETC" group-title="Hindi Music" tvg-logo="https://www.bizasialive.com/wp-content/uploads/2016/11/zetc001.jpg",Z-ETC bollywood
-http://pockettv.xyz/api/zee.m3u8?c=etc
+http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/etc/index.m3u8
 #EXTINF:-1 tvg-id="&xplorHD" group-title="Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQyJV7AHTTKuozYS43NMP7z0jm4sbJLyM-DgsGWym4_cVDcUfYI",&xplorHD
 https://z5ams.akamaized.net/out/v1/525714a3beef4b6a8eac1ca96ffd8f88/index.m3u8?hdnts=st=1577521352~exp=1577524352~acl=/*~hmac=f6338bd6092913d0f99febfefc80d78dfb974a4bf30a2c9cf4d2a2109758093b
 #EXTINF:-1 tvg-id="Mtv beats" group-title="Hindi Music" tvg-logo="https://www.satlogo.com/hires/mm/mtv_beats_in.png",MTV beats
