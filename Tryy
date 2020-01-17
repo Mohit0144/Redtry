@@ -51,6 +51,8 @@ http://linear07hun-lh.akamaihd.net/i/dilse_1@673921/master.m3u8
 
 #EXTINF:-1 tvg-id="B4u music" group-title="Hindi Music" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/b4u-music-logo.jpg",B4U Music
 http://103.199.161.254/Content/b4umusic/Live/Channel(B4Umusic)/index.m3u8
+#EXTINF:-1 tvg-id="ZING" group-title="Hindi Music" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zing.png",Zing
+http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zing/index.m3u8
 #EXTINF:-1 tvg-id="9XM" group-title="Hindi Music" tvg-logo="http://jio-tv.com/uploads/tv_image/9xm.jpg",9XM
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/9xm/index.m3u8
 #EXTINF:-1 tvg-id="ETC" group-title="Hindi Music" tvg-logo="https://www.bizasialive.com/wp-content/uploads/2016/11/zetc001.jpg",Z-ETC bollywood
