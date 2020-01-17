@@ -15,10 +15,10 @@ http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/49571
 #EXTINF:-1 tvg-id="Star world" group-title="Movies" tvg-logo="https://www.rdcablenet.com/wp-content/uploads/2019/01/STAR-MOVIES-SELECT-HD.png",Star World premiere HD
 http://185.152.64.100:25461/O0u0uimtYjK6gzA/4cKC3SXABQbPinv/34685?token=H0BdAEBeQA0WDFNSAFMLB1ADA1FVV19aAFZRVFdXBQZRUwNTBQJSVgEaHkNDRkoEVw9tDVJBXAoAAANXGBBFFwEQaghXFFgVDAECUQMLGk0UFlsJU0FcCAEDAFYABQRTU04XEVpSQA0WCwRZAwsJQxpAVxxCBhRXVVhoBlFEWQcBQA8PRloOGxZXXD5UV1UAWAYQXhRTRBUWXUQSFgheEQgOGUNRXxZFVUxXQwoQClkEUxBIFAAJTFpARRsWCBItKkAZQ1ZOFlJaS1sOXhACQ0IREEgUChVmRlFEFkZXUQkBEBdbEQZAGxZVUxlvUVcPWAdREF8MCEoWDhVTFh4SCQsMXBVcRD1HXVwQWxIGCFkDUgNGSw=="
 #EXTINF:-1 tvg-id="&FlixHD" group-title="Movies" tvg-logo="https://www.rdcablenet.com/wp-content/uploads/2019/01/STAR-MOVIES-SELECT-HD.png",&Flix HD
-http://pockettv.xyz/api/zee.m3u8?c=andflixhd
+http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andflixhd/index.m3u8
 
 #EXTINF:-1 tvg-id="&PriveHD" group-title="Movies" tvg-logo="https://www.rdcablenet.com/wp-content/uploads/2019/01/STAR-MOVIES-SELECT-HD.png",&Prive HD updated
-http://pockettv.xyz/api/zee.m3u8?c=andprivehd
+http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andprivehd/index.m3u8
 #EXTINF:-1 tvg-id="HBO" group-title="Movies" tvg-logo="https://1000logos.net/wp-content/uploads/2017/08/HBO-Logo.png",HBO
 http://103.118.76.229:1935/tvprogram/HBO/chunklist_w1104723003.m3u8
 #EXTINF:-1 tvg-id="HBO HD" group-title="Movies" tvg-logo="https://www-indiantelevision-com.cdn.ampproject.org/ii/w1200/s/www.indiantelevision.com/sites/default/files/images/tv-images/2018/01/29/hbo.jpg",HBO HD
