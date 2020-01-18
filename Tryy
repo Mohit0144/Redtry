@@ -4,7 +4,7 @@ https://streamer-1.toffeelive.com/live/set_max_hd_720/index.m3u8?token=a700c2740
 #EXTINF:-1 tvg-id="SONY PIX HD" group-title="Movies" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sony-pix-hd-logo-300x300.jpg",Sony Pix HD
 https://sony247channels.akamaized.net/hls/live/2009804/PIXHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdnea=1575646200_e09258cce6514d3deec5608118efddc9"
 
-#EXTINF:-1 tvg-id="Star Movies HD" group-title="Movies" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png",Star Movies HD
+#EXTINF:-1 tvg-id="Star Movies HD" group-title="Movies" tvg-logo="https://content.osn.com/logo/channel/cropped/STM.png",Star Movies HD
 http://livecdnh1.tvanywhere.ae/hls/star_movies/04.m3u8
 #EXTINF:-1 tvg-id="Star Movies SELECT" group-title="Movies" tvg-logo="https://www.rdcablenet.com/wp-content/uploads/2019/01/STAR-MOVIES-SELECT-HD.png",Star Movies SELECT
 http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/49571
