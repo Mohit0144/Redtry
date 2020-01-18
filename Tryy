@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="SONY MAX HD" group-title="Movies" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png",Sony Max HD
+#EXTINF:-1 tvg-id="SONY MAX HD" group-title="Movies" tvg-logo="https://img.airtel.tv/unsafe/fit-in/260x0/filters:format(webp)/https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_298/PORTRAIT/Lad3I4Yq.png?o=production",Sony Max HD
 https://streamer-1.toffeelive.com/live/set_max_hd_720/index.m3u8?token=a700c2740eda36dc9f8a6155b0d28c1b"
 #EXTINF:-1 tvg-id="SONY PIX HD" group-title="Movies" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sony-pix-hd-logo-300x300.jpg",Sony Pix HD
 https://sony247channels.akamaized.net/hls/live/2009804/PIXHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdnea=1575646200_e09258cce6514d3deec5608118efddc9"
