@@ -69,8 +69,7 @@ http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andpicshd/index.m3
 #EXTINF:-1 group-title="HINDI", And TV
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andtvhd/index.m3u8
 
-#EXTINF:-1 tvg-id="Star Plus" group-title="Hindi entertainment" tvg-logo="https://www.pngfind.com/pngs/m/328-3289830_star-plus-logo-png-star-plus-hd-india.png",Star Plus new
-http://52.66.207.99/h.php?c=starplushd&e=.m3u8
+
 #EXTINF:-1 tvg-id="SET  HD" group-title="Hindi Entertainment" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png",Sony HD
 https://sony247channels.akamaized.net/hls/live/2009800/SETHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdnea=15
 #EXTINF:-1 tvg-id="SET" group-title="Hindi Entertainment" tvg-logo="https://tvtbr.s3.amazonaws.com/MWTV/MWTV_LIVETVCHANNEL_324/PORTRAIT/a625436c-4d76-4a5f-8c44-ade41206b7df.png",Sony Max HD
