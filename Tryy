@@ -17,7 +17,7 @@ http://185.152.64.100:25461/O0u0uimtYjK6gzA/4cKC3SXABQbPinv/34685?token=H0BdAEBe
 #EXTINF:-1 tvg-id="&FlixHD" group-title="Movies" tvg-logo="https://bestmediainfo.com/timthumb.php?src=/wp-content/uploads/2018/05/andflix-logo_4.jpg&w=620&h=350&zc=1&q=100",&Flix HD
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andflixhd/index.m3u8
 
-#EXTINF:-1 tvg-id="&PriveHD" group-title="Movies" tvg-logo="https://www.rdcablenet.com/wp-content/uploads/2019/01/STAR-MOVIES-SELECT-HD.png",&Prive HD updated
+#EXTINF:-1 tvg-id="&PriveHD" group-title="Movies" tvg-logo="https://exchange4media.gumlet.com/news-photo/1505284911_sI2Bzt_70469.jpg",&Prive HD updated
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andprivehd/index.m3u8
 #EXTINF:-1 tvg-id="HBO" group-title="Movies" tvg-logo="https://1000logos.net/wp-content/uploads/2017/08/HBO-Logo.png",HBO
 http://103.118.76.229:1935/tvprogram/HBO/chunklist_w1104723003.m3u8
