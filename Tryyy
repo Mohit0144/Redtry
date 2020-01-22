@@ -132,7 +132,7 @@ http://ngprsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Epic_HD/Epic_HD_600.m3u8?j
 
 #EXTINF:-1 tvg-id="Wion news" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1f/WION_TV_logo.jpg",Wion News 
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/wion/index.m3u8
-#EXTINF:-1 tvg-id="Bloomberg" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1f/WION_TV_logo.jpg",Bloomberg Quint
+#EXTINF:-1 tvg-id="Bloomberg" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/Logo_of_BloombergQuint.png/225px-Logo_of_BloombergQuint.png",Bloomberg Quint
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/bquint/index.m3u8
 #EXTINF:-1 tvg-id="ZEE news" group-title="News" tvg-logo="https://cdn.dnaindia.com/sites/default/files/styles/half/public/2019/01/04/773839-zee-news-logo.jpg",ZEE News
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zeenews/index.m3u8
