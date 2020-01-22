@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Marvel Movies" group-title="Movies" tvg-logo="https://content.osn.com/logo/channel/cropped/STM.png",Marvel Movies
+#EXTINF:-1 tvg-id="Marvel Movies" group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Marvel-tv-logo.svg/440px-Marvel-tv-logo.svg.png",Marvel Movies
 http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
 #EXTINF:-1 tvg-id="Blockbuster" group-title="Movies" tvg-logo="https://content.osn.com/logo/channel/cropped/STM.png",Blockbuster
 http://tx.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1.m3u8
