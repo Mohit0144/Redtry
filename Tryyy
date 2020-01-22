@@ -36,7 +36,7 @@ http://89.187.191.77:25461/O0u0uimtYjK6gzA/4cKC3SXABQbPinv/72240?token=H0BdAEBeQ
 http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/49562
 #EXTINF:-1 tvg-id="MOVIES NOW" group-title="Movies" tvg-logo="https://spng.pngfly.com/20180530/tw/kisspng-movies-now-high-definition-television-television-c-5b0e4965ebeac1.4437407815276629499663.jpg", MOVIES NOW
 https://timesnow.airtel.tv/live/MN_pull/master.m3u8
-#EXTINF:-1 tvg-id="Zee Cinema" group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1f/WION_TV_logo.jpg",Zee Cinema HD
+#EXTINF:-1 tvg-id="Zee Cinema" group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/Zee_Cinema_New_Logo.png/200px-Zee_Cinema_New_Logo.png",Zee Cinema HD
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zcinemahd/index.m3u8
 
 
