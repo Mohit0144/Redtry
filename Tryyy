@@ -253,3 +253,6 @@ http://sngprecdnems13.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Sony_ESPN_HD/Sony
 #EXTINF:-1 tvg-id="DD Sports" group-title="Sports" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_ESPN_HD.png", ESPM JTV HQ
 http://sngprecdnems15.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Sony_ESPN_HD/Sony_ESPN_HD_600.m3u8?jct=LrgwZm7NGzQYbOWCSflvaw&pxe=1581172404&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_1 like Mac OS X) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.0 JioTV Mobile/14E304 Safari/602.1"
 
+#EXTINF:-1 tvg-id="Zee pun" group-title="Punjabi" tvg-logo="https://dreamdth.com/wp-content/uploads/2019/11/Zee-Punjabi-1024x522.jpg",Zee Punjabi
+http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zeepunjabi/index.m3u8
+
