@@ -13,7 +13,7 @@ http://livecdnh1.tvanywhere.ae/hls/star_movies/04.m3u8
 #EXTINF:-1 tvg-id="Star Movies SELECT" group-title="Movies" tvg-logo="https://www.rdcablenet.com/wp-content/uploads/2019/01/STAR-MOVIES-SELECT-HD.png",Star Movies SELECT
 http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/49571
 #EXTINF:-1 tvg-id="Star world" group-title="Movies" tvg-logo="https://www.rdcablenet.com/wp-content/uploads/2019/01/STAR-MOVIES-SELECT-HD.png",Star World premiere HD
-http://185.152.64.100:25461/O0u0uimtYjK6gzA/4cKC3SXABQbPinv/34685?token=H0BdAEBeQA0WDFNSAFMLB1ADA1FVV19aAFZRVFdXBQZRUwNTBQJSVgEaHkNDRkoEVw9tDVJBXAoAAANXGBBFFwEQaghXFFgVDAECUQMLGk0UFlsJU0FcCAEDAFYABQRTU04XEVpSQA0WCwRZAwsJQxpAVxxCBhRXVVhoBlFEWQcBQA8PRloOGxZXXD5UV1UAWAYQXhRTRBUWXUQSFgheEQgOGUNRXxZFVUxXQwoQClkEUxBIFAAJTFpARRsWCBItKkAZQ1ZOFlJaS1sOXhACQ0IREEgUChVmRlFEFkZXUQkBEBdbEQZAGxZVUxlvUVcPWAdREF8MCEoWDhVTFh4SCQsMXBVcRD1HXVwQWxIGCFkDUgNGSw=="
+http://185.152.64.100:2540000061/O0u0uimtYjK6gzA/4cKC3SXABQbPinv/34685?token=H0BdAEBeQA0WDFNSAFMLB1ADA1FVV19aAFZRVFdXBQZRUwNTBQJSVgEaHkNDRkoEVw9tDVJBXAoAAANXGBBFFwEQaghXFFgVDAECUQMLGk0UFlsJU0FcCAEDAFYABQRTU04XEVpSQA0WCwRZAwsJQxpAVxxCBhRXVVhoBlFEWQcBQA8PRloOGxZXXD5UV1UAWAYQXhRTRBUWXUQSFgheEQgOGUNRXxZFVUxXQwoQClkEUxBIFAAJTFpARRsWCBItKkAZQ1ZOFlJaS1sOXhACQ0IREEgUChVmRlFEFkZXUQkBEBdbEQZAGxZVUxlvUVcPWAdREF8MCEoWDhVTFh4SCQsMXBVcRD1HXVwQWxIGCFkDUgNGSw=="
 #EXTINF:-1 tvg-id="&FlixHD" group-title="Movies" tvg-logo="https://bestmediainfo.com/timthumb.php?src=/wp-content/uploads/2018/05/andflix-logo_4.jpg&w=620&h=350&zc=1&q=100",&Flix HD
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andflixhd/index.m3u8
 
@@ -26,10 +26,6 @@ http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/49557
 
 #EXTINF:-1 tvg-id="HBO 2" group-title="Movies" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/hbo2.png",HBO 2
 http://iptv6.premium-stv.com:25461/live/sourcenederlandpro2/6544963080/987.m3u8
-#EXTINF:-1 tvg-id="ActionMAX" group-title="Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQyJV7AHTTKuozYS43NMP7z0jm4sbJLyM-DgsGWym4_cVDcUfYI",ActionMax
-http://213.152.172.67:25461/SOURCEUSASNOW/3246569824/1815
-#EXTINF:-1 tvg-id="MoreMAX" group-title="Movies" tvg-logo="https://www.rdcablenet.com/wp-content/uploads/2019/01/STAR-MOVIES-SELECT-HD.png",More maxHD
-http://213.152.172.67:25461/SOURCEUSASNOW/3246569824/1751
 #EXTINF:-1 tvg-id="WB" group-title="Movies" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/turner-wb-logo.jpg",WB
 http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/49581
 #EXTINF:-1 tvg-id="UTV Action" group-title="Movies" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e9/UTV_Action.png",UTV Action
@@ -44,6 +40,9 @@ https://timesnow.airtel.tv/live/MN_pull/master.m3u8
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zcinemahd/index.m3u8
 #EXTINF:-1 tvg-id="Zee Bollywood" group-title="Movies" tvg-logo="https://www.mediainfoline.com/wp-content/uploads/2018/08/Zee-Bollywood-Logo.jpg",Zee Bollywood
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/classic/index.m3u8
+#EXTINF:-1 tvg-id="Zee Action" group-title="Movies" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/83/Zee_Action_new.png/revision/latest/scale-to-width-down/340?cb=20200113074207",Zee Action
+http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/action/index.m3u8
+
 
 #EXTINF:-1 tvg-id="Vh1" group-title="Hindi Music" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ZOOM.png",Vh1 music
 http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/49580
