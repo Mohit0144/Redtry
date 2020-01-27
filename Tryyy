@@ -44,6 +44,8 @@ http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zcinemahd/index.m3
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/classic/index.m3u8
 #EXTINF:-1 tvg-id="Zee Action" group-title="Movies" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/83/Zee_Action_new.png/revision/latest/scale-to-width-down/340?cb=20200113074207",Zee Action
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/action/index.m3u8
+#EXTINF:-1 tvg-id="Movies OK" group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/Movies_OK_Logo.jpg/220px-Movies_OK_Logo.jpg",Movies OK
+http://moviesok-i.akamaihd.net/hls/live/569918/moviesok/master_2000.m3u8|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/74.0.3729.77 Safari/537.36"
 
 
 #EXTINF:-1 tvg-id="Vh1" group-title="Hindi Music" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ZOOM.png",Vh1 music
