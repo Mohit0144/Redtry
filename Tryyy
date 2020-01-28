@@ -94,7 +94,7 @@ https://sony247channels.akamaized.net/hls/live/2009801/SABHD/master.m3u8?hdnea=e
 #EXTINF:-1 tvg-id="Zee TV HD" group-title="Hindi Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Zee_TV-2018.png/180px-Zee_TV-2018.png",Zee TV HD
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zeetvhd/index.m3u8
 #EXTINF:-1 tvg-id="Colors HD" group-title="Hindi Entertainment" tvg-logo="https://www.bizasialive.com/wp-content/uploads/2017/02/colorshdlogo002-696x464.jpg/revision/latest?cb=20170604044941",Colors HD
-http://185.152.64.54:2200/R-EX/HINDI_COLORS_HD_S-in/tracks-v1a1/mono.m3u8?token=EAKbxISa6Dzxc5RUBwc7dA%3D%3D%2C1578552146.1409712960
+http://185.152.64.54:2200/R-EX/HINDI_COLORS_HD_S-in/tracks-v1a1/mono.m3u8?token=EAKbxISa6Dzxc5RUBwc7dA%3D%3D%2C1578552146.1409712960"
 #EXTINF:-1 tvg-id="AndtvHD" group-title="Hindi Entertainment" tvg-logo="https://www.rdcablenet.com/wp-content/uploads/2019/01/And_TV_HD.png",&TV HD
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andtvhd/index.m3u8
 #EXTINF:-1 tvg-id="Colors" group-title="Hindi Entertainment" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/3b/%D8%A7%D9%84%D9%85%D8%B3%D9%8A%D9%84%D8%A9_%D8%A8%D8%B1%D8%B3.png/revision/latest?cb=20170604044941",Colors updated 
