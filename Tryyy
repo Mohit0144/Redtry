@@ -260,3 +260,7 @@ http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zeepunjabi/index.m
 
 #EXTINF:-1 tvg-id="Zee Tamil" group-title="Tamil" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1f/WION_TV_logo.jpg",Zee tamil
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zeetamil/index.m3u8
+
+
+#EXTINF:-1 tvg-id="Zee Talkies" group-title="Marathi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1f/WIONgo.jpg",Zee tamil
+http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zeetalkies/index.m3u8
